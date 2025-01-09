@@ -6,7 +6,7 @@ Demonstrates how to execute a simple LSTM model with `tflite-micro`.
 
 ## Run the Example
 
-To run the tests on the example, just navigate to the `tflite-micro` root directory and execute:
+To run the tests on the example, just navigate to the `tflite-micro-lstm` root directory and execute:
 ```bash
 make -f tensorflow/lite/micro/tools/make/Makefile test_simple_lstm_test
 ```
