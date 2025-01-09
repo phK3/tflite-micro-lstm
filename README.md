@@ -15,6 +15,10 @@
 
 # Simple LSTM Example
 
+Clone this repository using `git clone https://github.com/phK3/tflite-micro-lstm.git`. 
+Make sure to have a python installation with `numpy` available.
+Then follow the instructions in the Simple LSTM example.
+
 The example for a simple LSTM network can be found under https://github.com/phK3/tflite-micro-lstm/tree/main/tensorflow/lite/micro/examples/simple_lstm .
 
 # TensorFlow Lite for Microcontrollers
