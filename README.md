@@ -13,6 +13,10 @@
 
 <!--te-->
 
+# Simple LSTM Example
+
+The example for a simple LSTM network can be found under https://github.com/phK3/tflite-micro-lstm/tree/main/tensorflow/lite/micro/examples/simple_lstm .
+
 # TensorFlow Lite for Microcontrollers
 
 TensorFlow Lite for Microcontrollers is a port of TensorFlow Lite designed to
